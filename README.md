@@ -1,1 +1,1 @@
-# recommender-systems-project
+# Recommender Systems Project
